@@ -61,7 +61,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Desvende seu Potencial Financeiro com o FinançaLeitura!"
+        android:text="Desvende seu Potencial Financeiro com o FinSmartBooks!"
         android:textAlignment="center"
         android:textSize="15sp"
         app:layout_constraintEnd_toEndOf="@+id/textView2"
