@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196736458109",
+    "project_id": "projeto-loja-b7959",
+    "storage_bucket": "projeto-loja-b7959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196736458109:android:8020a983c701d673c70014",
+        "android_client_info": {
+          "package_name": "com.example.projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WRUh16x-Gy3_glda6PVVK99W3MIuxgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
